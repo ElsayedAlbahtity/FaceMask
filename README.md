@@ -23,11 +23,6 @@ This project detects whether a person is wearing a face mask or not using comput
 
 
 
-## 📸 Screenshots
-(You can add screenshots here from the app)
-
-## 📹 Demo
-A video demo will be added soon.
 
 ---
 
